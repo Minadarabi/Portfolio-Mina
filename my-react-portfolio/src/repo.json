@@ -1,0 +1,78 @@
+[
+{
+    "repoName": "News-website-mina",
+    "imageUrl": "src/assets/repo-images/image1.png"
+  },
+  {
+    "repoName": "events-project",
+    "imageUrl": "src/assets/repo-images/image2.png"
+  },
+  {
+    "repoName": "form-practice",
+    "imageUrl": "src/assets/repo-images/image3.png"
+  },
+  {
+    "repoName": "Artist-form",
+    "imageUrl": "src/assets/repo-images/image4.png"
+  },
+  {
+    "repoName": "yoga-form",
+    "imageUrl": "src/assets/repo-images/image5.png"
+  },
+  {
+    "repoName": "project-business-site",
+    "imageUrl": "src/assets/repo-images/image6.png"
+  },
+  {
+    "repoName": "project-news-site",
+    "imageUrl": "src/assets/repo-images/image7.png"
+  },
+  {
+    "repoName": "project-pizza",
+    "imageUrl": "src/assets/repo-images/image8.png"
+  },
+  {
+    "repoName": "project-chatbot",
+    "imageUrl": "src/assets/repo-images/image9.png"
+  },
+  {
+    "repoName": "project-guess-who",
+    "imageUrl": "src/assets/repo-images/image10.png"
+  },
+  {
+    "repoName": "project-weather-app",
+    "imageUrl": "src/assets/repo-images/image11.png"
+  },
+  {
+    "repoName": "exercise-w5-pokemon-props",
+    "imageUrl": "src/assets/repo-images/image12.png"
+  },
+  {
+    "repoName": "project-music-releases-vite",
+    "imageUrl": "src/assets/repo-images/image13.png"
+  },
+  {
+    "repoName": "react-vite-boiler-plate",
+    "imageUrl": "src/assets/repo-images/image14.png"
+  },
+  {
+    "repoName": "exercise-w6-lightbulb-use-state-hook",
+    "imageUrl": "src/assets/repo-images/image15.png"
+  },
+  {
+    "repoName": "project-survey-vite",
+    "imageUrl": "src/assets/repo-images/image16.png"
+  },
+  {
+    "repoName": "exercise-w7-dog-facts-use-effect-hook",
+    "imageUrl": "src/assets/repo-images/image17.png"
+  },
+  {
+    "repoName": "project-happy-thoughts-vite",
+    "imageUrl": "src/assets/repo-images/image18.png"
+  },
+  {
+    "repoName": "Portfolio-Mina",
+    "imageUrl": "src/assets/repo-images/image19.png"
+  }
+]
