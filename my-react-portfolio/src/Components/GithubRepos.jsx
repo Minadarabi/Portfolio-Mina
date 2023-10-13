@@ -12,7 +12,7 @@ export const GithubRepos = () => {
         try {
           const response = await fetch("https://api.github.com/users/Minadarabi/repos", {
             headers: {
-                "Authorization": "Bearer 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"
+                "Authorization": "Bearer "
             }
           });
           if (!response.ok) {

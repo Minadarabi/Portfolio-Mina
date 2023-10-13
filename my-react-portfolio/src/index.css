@@ -18,7 +18,7 @@
 body{
   background-color: #eaeefb;
   color: black;
-  font-family: "roboto" , "sans-sarif";
+  font-family: "Helvetica", "roboto" , "sans-sarif";
 
 }
 
@@ -29,9 +29,9 @@ body{
   display: block;
   margin: 50px auto;
 }
-.repo-img{
-  width: 200px;
-  height: 150px;
+.repo-img , img{
+  width: 300px;
+  height: 200px;
   border-left: 8px solid #0B24F5;
   border-bottom: 8px solid #0B24F5;
   display: block;
@@ -41,14 +41,14 @@ h1 {
   color: #0B24F5;
   
 }
-.skill-container{
+.tech-container{
   background-color: #0B24F5;
   color: whitesmoke;
   padding: 40px 10px;
   width: 100%;
   margin: 30px 0;
 }
-.skill-container h1{
+.tech-container h1{
   color: whitesmoke;
   text-align: center;
   
@@ -82,8 +82,89 @@ button{
   border-radius: 20px;
   margin: 10px 0;
   font-size: 18px;
+  transition: all .5s;
  
 }
-.projects{
-  padding-left: 20px;
+.projects , .words{
+  padding: 20px;
+}
+.btn-blue:hover{
+  background-color: #0B24F5;
+  color: whitesmoke;
+
+}
+.btn-pink:hover{
+  background-color: #EB5577;
+  color: whitesmoke;
+}
+.btn-yellow:hover{
+  background-color: #FFD338;
+  color: whitesmoke;
+}
+.words h1{
+  text-align: center;
+  margin-bottom: 30px;
+  color: #FF4575;
+}
+.words{
+  background-color: #FFECEA;
+  position: relative;
+}
+.words img{
+  border-left: 8px solid #FF4575;
+  border-bottom: 8px solid #FF4575;
+  margin: 20px;
+}
+.words .path-img{
+  border: none;
+  width: 100%;
+  position: absolute;
+  top: -100px;
+  left: 0;
+  margin: 0;
+  
+}
+.my-img{
+  border: none;
+}
+.header .up-img{
+  border: none;
+  width: 45px;
+  height: 65px;
+  margin-top: 20px;
+}
+.skill{
+  background-color: #0B24F5;
+  color: whitesmoke;
+  text-align: center;
+}
+.media{
+  text-align: center;
+}
+.media h1{
+  margin-top: 20px;
+}
+.media li{
+  display: inline;
+  
+}
+.media li a{
+  margin-right: 20px;
+  margin-top: 20px;
+  font-size: 30px;
+  color: rgb(198, 195, 195);
+  transition: all .5s;
+}
+.media li a:hover{
+  color: black
+}
+.footer{
+  background-color: #FF4575;
+  color: whitesmoke;
+  text-align: center;
+  margin-top: 30px;
+  padding: 10px;
+}
+.footer h1{
+  color: whitesmoke;
 }
