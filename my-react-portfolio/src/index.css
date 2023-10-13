@@ -4,66 +4,86 @@
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
-a {
-  font-weight: 500;
-  color: #646cff;
-  text-decoration: inherit;
-}
-a:hover {
-  color: #535bf2;
-}
-
-body {
+*{
   margin: 0;
-  display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: #eaeefb;
+  color: black;
+  font-family: "roboto" , "sans-sarif";
+
 }
 
+.my-img{
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  display: block;
+  margin: 50px auto;
+}
+.repo-img{
+  width: 200px;
+  height: 150px;
+  border-left: 8px solid #0B24F5;
+  border-bottom: 8px solid #0B24F5;
+  display: block;
+  margin: 0 auto;
+}
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  color: #0B24F5;
+  
 }
-
-button {
-  border-radius: 8px;
-  border: 1px solid transparent;
-  padding: 0.6em 1.2em;
-  font-size: 1em;
-  font-weight: 500;
-  font-family: inherit;
-  background-color: #1a1a1a;
+.skill-container{
+  background-color: #0B24F5;
+  color: whitesmoke;
+  padding: 40px 10px;
+  width: 100%;
+  margin: 30px 0;
+}
+.skill-container h1{
+  color: whitesmoke;
+  text-align: center;
+  
+}
+.header{
+  padding: 20px;
+}
+li{
+  list-style-type: none;
+  margin: 30px 0;
+  
+}
+.projects h1{
+  text-align: center;
+}
+.tag{
+  color: whitesmoke;
+  display: inline-block;
+  margin-right: 6px;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 3px;
+ margin: 18px 0;
+}
+button{
+  border: none;
+  background-color: rgb(207, 205, 205);
+  outline: none;
   cursor: pointer;
-  transition: border-color 0.25s;
+  padding: 9px;
+  border-radius: 20px;
+  margin: 10px 0;
+  font-size: 18px;
+ 
 }
-button:hover {
-  border-color: #646cff;
-}
-button:focus,
-button:focus-visible {
-  outline: 4px auto -webkit-focus-ring-color;
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.projects{
+  padding-left: 20px;
 }

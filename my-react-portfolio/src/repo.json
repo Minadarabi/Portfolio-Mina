@@ -1,78 +1,112 @@
 [
 {
     "repoName": "News-website-mina",
-    "imageUrl": "src/assets/repo-images/image1.png"
+    "imageUrl": "https://images.pexels.com/photos/935979/pexels-photo-935979.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "events-project",
-    "imageUrl": "src/assets/repo-images/image2.png"
+    "imageUrl": "https://images.pexels.com/photos/196655/pexels-photo-196655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "form-practice",
-    "imageUrl": "src/assets/repo-images/image3.png"
+    "imageUrl": "https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "Artist-form",
-    "imageUrl": "src/assets/repo-images/image4.png"
+    "imageUrl": "https://images.pexels.com/photos/114820/pexels-photo-114820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "yoga-form",
-    "imageUrl": "src/assets/repo-images/image5.png"
+    "imageUrl": "https://images.pexels.com/photos/355863/pexels-photo-355863.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-business-site",
-    "imageUrl": "src/assets/repo-images/image6.png"
+    "imageUrl": "https://images.pexels.com/photos/57690/pexels-photo-57690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-news-site",
-    "imageUrl": "src/assets/repo-images/image7.png"
+    "imageUrl": "https://images.pexels.com/photos/4185957/pexels-photo-4185957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-pizza",
-    "imageUrl": "src/assets/repo-images/image8.png"
+    "imageUrl": "https://images.pexels.com/photos/18542518/pexels-photo-18542518/free-photo-of-pizza-straight-from-oven.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-chatbot",
-    "imageUrl": "src/assets/repo-images/image9.png"
+    "imageUrl": "https://images.pexels.com/photos/8566473/pexels-photo-8566473.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-guess-who",
-    "imageUrl": "src/assets/repo-images/image10.png"
+    "imageUrl": "https://images.pexels.com/photos/3491940/pexels-photo-3491940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-weather-app",
-    "imageUrl": "src/assets/repo-images/image11.png"
+    "imageUrl": "https://images.pexels.com/photos/3227984/pexels-photo-3227984.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "exercise-w5-pokemon-props",
-    "imageUrl": "src/assets/repo-images/image12.png"
+    "imageUrl": "https://images.pexels.com/photos/1716861/pexels-photo-1716861.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-music-releases-vite",
-    "imageUrl": "src/assets/repo-images/image13.png"
+    "imageUrl": "https://images.pexels.com/photos/154147/pexels-photo-154147.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "react-vite-boiler-plate",
-    "imageUrl": "src/assets/repo-images/image14.png"
+    "imageUrl": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "exercise-w6-lightbulb-use-state-hook",
-    "imageUrl": "src/assets/repo-images/image15.png"
+    "imageUrl": "https://images.pexels.com/photos/1830252/pexels-photo-1830252.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-survey-vite",
-    "imageUrl": "src/assets/repo-images/image16.png"
+    "imageUrl": "https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "exercise-w7-dog-facts-use-effect-hook",
-    "imageUrl": "src/assets/repo-images/image17.png"
+    "imageUrl": "https://images.pexels.com/photos/1108099/pexels-photo-1108099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "project-happy-thoughts-vite",
-    "imageUrl": "src/assets/repo-images/image18.png"
+    "imageUrl": "https://images.pexels.com/photos/4473412/pexels-photo-4473412.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   },
   {
     "repoName": "Portfolio-Mina",
-    "imageUrl": "src/assets/repo-images/image19.png"
+    "imageUrl": "https://images.pexels.com/photos/14936124/pexels-photo-14936124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
+  },
+  {
+    "repoName": "CV",
+    "imageUrl": "https://images.pexels.com/photos/14936124/pexels-photo-14936124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
+  },
+  {
+    "repoName": "story",
+    "imageUrl": "https://images.pexels.com/photos/14936124/pexels-photo-14936124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
+  },
+  {
+    "repoName": "story2",
+    "imageUrl": "https://images.pexels.com/photos/14936124/pexels-photo-14936124.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "desc": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries."
   }
 ]
