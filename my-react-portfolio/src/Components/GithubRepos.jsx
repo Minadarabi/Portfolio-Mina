@@ -42,16 +42,24 @@ export const GithubRepos = () => {
       {repos.map((repo) => {
         const repoImage = repoImages.find((img) => img.repoName === repo.name);
         return (
-          <li key={repo.id}>
+          <li key={repo.id} className='list-item'>
             <img className='repo-img' src={repoImage?.imageUrl} alt={repo.name} />
-            <h2>{repo.name}</h2>
-            <p>{repoImage?.desc}</p>
+            <h2 className='repo-name'>{repo.name}</h2>
+            <p className='repo-text'>{repoImage?.desc}</p>
+            <div>
             <Tag color="black" content="HTML5" />
             <Tag color="black" content="CSS3" />
             <Tag color="black" content="JavaScript" />
             <Tag color="black" content="React" />
+
+            </div>
+            <div className='btns'>
             <Button color={"blue"} icon={"globe"} text={"Live Demo"}/>
             <Button color={"pink"} icon={"github"} text={"View the Code"}/>
+
+            </div>
+            
+           
           </li>
           
         );
