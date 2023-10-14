@@ -10,11 +10,7 @@ export const GithubRepos = () => {
     useEffect(() => {
       const fetchRepos = async () => {
         try {
-          const response = await fetch("https://api.github.com/users/Minadarabi/repos", {
-            headers: {
-                "Authorization": "Bearer "
-            }
-          });
+          const response = await fetch("https://api.github.com/users/Minadarabi/repos");
           if (!response.ok) {
             throw new Error("Network response was not ok" + response.statusText);
           }
